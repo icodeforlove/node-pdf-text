@@ -20,11 +20,11 @@
     "url": "https://github.com/brianc/node-pdf-text/issues"
   },
   "devDependencies": {
-    "mocha": "~1.14.0",
+    "mocha": "^5.2.0",
     "okay": "~0.3.0"
   },
   "dependencies": {
-    "lodash": "~2.3.0",
+    "lodash": "^4.17.10",
     "pdf3json": "0.2.0"
   }
 }
